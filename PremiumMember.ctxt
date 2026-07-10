@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=PremiumMember
+comment0.text=\r\n\ The\ premium\ class\ is\ a\ subclass\ of\ GymMember\ class\ that\ is\ child\ class\ of\ GymMember\ class\r\n\ where\ as\ it\ has\ three\ attributes\ it\ also\ accept\ Nine\ parameter\ such\ as\ Id\ name\ Location\ Phone\ and\ so\ on\ where\ as\ it\ means\ the\ call\ is\ made\ to\ the\ super\ class\ \r\n\ constructor\ with\ eight\ parameters.where\ in\ this\ class\ its\ shows\ the\ total\ amount\ paid\ and\ the\ discount\ that\ they\ have\ received.\r\n\r\n\ @author\ (Sworup\ Raj\ Shrestha)\r\n\ @version\ (4/12/2025)\r\n
+comment1.params=id1\ name1\ location1\ phone1\ email1\ gender1\ dateOfBirth1\ membershipStartDate1\ personalTrainer1
+comment1.target=PremiumMember(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ RevertPremiumMember()
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=double\ getPremiumCharge()
+comment3.params=
+comment3.target=java.lang.String\ getPersonalTrainer()
+comment4.params=
+comment4.target=boolean\ isFullPayment()
+comment5.params=
+comment5.target=double\ getPaidAmount()
+comment6.params=
+comment6.target=double\ getDiscountAmount()
+comment7.params=
+comment7.target=void\ MarkAttendance()
+comment8.params=amount
+comment8.target=java.lang.String\ PayDueAmount(double)
+comment9.params=
+comment9.target=void\ CalculateDiscount()
+numComments=12

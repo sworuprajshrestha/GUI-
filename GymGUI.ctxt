@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GymGUI
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=m
+comment2.target=java.lang.String\ getMemberDisplay(GymMember)
+comment3.params=
+comment3.target=void\ a1()
+comment4.params=
+comment4.target=void\ a2()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ showWelcomeScreen()
+numComments=7
